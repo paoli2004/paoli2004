@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro Paoli Neto
 
-<!--
-**paoli2004/paoli2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Perfil Profissional
 
-Here are some ideas to get you started:
+- 💻 Engenheiro de Software
+- 🌱 Amante de PHP 
+- 🎓 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas na UDESC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,react,java,c)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
+
+## 📚 Desejo em aprender/estudando
+[![My Skills](https://skillicons.dev/icons?i=typescript,nestjs)](https://skillicons.dev)
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-pedronetopaoli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronetopaoli@gmail.com)
+[![Instagram: Pedro](https://img.shields.io/badge/-pedropaolii-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedropaolii/)](https://www.instagram.com/pedropaolii/)
+
