@@ -20,4 +20,4 @@
 
 ![Gmail Badge](https://img.shields.io/badge/-pedronetopaoli@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedronetopaoli@gmail.com)
 [![Instagram: Pedro](https://img.shields.io/badge/-pedropaolii-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedropaolii/)](https://www.instagram.com/pedropaolii/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-paoli-0259612aa)
